@@ -1,0 +1,1 @@
+(()=>{"use strict";var __webpack_modules__={903:()=>{eval("\n\n//# sourceURL=webpack://web/./src/pages/Index/index.js?")}},__webpack_exports__={};__webpack_modules__[903]()})();
